@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "medvane"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{Medvane common library gem}
+    gem.description = %Q{Medvane common library for accessing PubMed}
     gem.email = "seouri@gmail.com"
     gem.homepage = "http://github.com/seouri/medvane"
     gem.authors = ["Joon Lee"]
